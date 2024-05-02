@@ -2,7 +2,7 @@
 
 # About Walmart:
 
-Walmart is an American multinational retail corporation that operates a chain of supercenters, discount departmental stores, and grocery stores from the United States. Walmart has more than 100 million customers worldwide.
+Walmart is an American multinational retail corporation that operates a chain of supercenters, discount departmental stores, and grocery stores in the United States. Walmart has more than 100 million customers worldwide.
 
 
 # Business Problem:
@@ -11,9 +11,11 @@ The Management team at Walmart Inc. wants to analyze the customer purchase behav
 
 
 # Dataset:
+Dataset link: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094
+
 # Features:
 
-The company collected the transactional data of customers who purchased products from the Walmart Stores during Black Friday. The dataset has the following features:
+The company collected the transactional data of customers who purchased products from Walmart Stores during Black Friday. The dataset has the following features:
 
 * User_ID:	User ID
 * Product_ID:	Product ID
@@ -21,7 +23,7 @@ The company collected the transactional data of customers who purchased products
 * Age:	Age in bins
 * Occupation:	Occupation(Masked)
 * City_Category:	Category of the City (A,B,C)
-* StayInCurrentCityYears:	Number of years stay in current city
+* StayInCurrentCityYears:	Number of years stay in the current city
 * Marital_Status:	Marital Status
 * ProductCategory:	Product Category (Masked)
 * Purchase:	Purchase Amount
