@@ -16,15 +16,15 @@ Dataset link: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001
 # Features:
 
 The company collected the transactional data of customers who purchased products from Walmart Stores during Black Friday. The dataset has the following features:
-|feature|description|
+|Features|description|
 |---|---|
 |User_ID |User ID
-* Product_ID:	Product ID
-* Gender:	Sex of User
-* Age:	Age in bins
-* Occupation:	Occupation(Masked)
-* City_Category:	Category of the City (A,B,C)
-* StayInCurrentCityYears:	Number of years stay in the current city
-* Marital_Status:	Marital Status
-* ProductCategory:	Product Category (Masked)
-* Purchase:	Purchase Amount
+|Product_ID|	Product ID
+|Gender|	Sex of User
+|Age|	Age in bins
+|Occupation| Occupation(Masked)
+|City_Category|	Category of the City (A,B,C)
+|StayInCurrentCityYears|	Number of years stay in the current city
+|Marital_Status|	Marital Status
+|ProductCategory|	Product Category (Masked)
+|Purchase|	Purchase Amount
